@@ -7,8 +7,6 @@ About Me = [
 ]
 ```
 
-![](https://dcbadge.vercel.app/api/shield/348314340690100225)
-
 ![](https://komarev.com/ghpvc/?username=leoodz)
 
 ![Leoodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoodz&show_icons=true&theme=dracula)
