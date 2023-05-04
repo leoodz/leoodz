@@ -1,5 +1,7 @@
 Hello there, I'm Leoodz!
+
 ![](https://komarev.com/ghpvc/?username=leoodz)
+    
 ```py
 About Me = [
     "I'm a guy who loves programing",
