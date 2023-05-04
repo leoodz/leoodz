@@ -1,4 +1,5 @@
 Hello there, I'm Leoodz!
+![](https://komarev.com/ghpvc/?username=leoodz)
 ```py
 About Me = [
     "I'm a guy who loves programing",
@@ -8,7 +9,6 @@ About Me = [
 ```
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=leoodz)
 
 ![Leoodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoodz&show_icons=true&theme=dracula)
 
