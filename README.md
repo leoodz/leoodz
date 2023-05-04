@@ -7,7 +7,8 @@ About Me = [
 ]
 ```
 
-<p align="center">![](https://komarev.com/ghpvc/?username=leoodz)
+<p align="center">
+![](https://komarev.com/ghpvc/?username=leoodz)
 
 ![Leoodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoodz&show_icons=true&theme=dracula)
 
