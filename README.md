@@ -4,7 +4,6 @@ Hello there, I'm Leoodz!
     
 ```py
 About Me = [
-    "I'm a guy who loves programing",
     "Languages that i know Python,C, Html, PHP, CSS, JavaScript, C#"
     "Love to learn new stuffs from the internet",
 ]
