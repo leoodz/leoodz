@@ -1,103 +1,33 @@
-## 🎭 **WHO AM I?** `./whoami`
+# Hey, I'm Leo 👋
 
-> *"Code is poetry, malware is mystery, and enterprise solutions are symphonies."*
+I'm a full-stack developer based in Vietnam, interested in building useful software, exploring cybersecurity, and experimenting with AI.
 
-```bash
-leo@matrix:~$ cat /etc/passwd | grep leo
-leo:x:1337:1337:Full Stack Wizard | Malware Hunter | Enterprise Architect:/home/leo:/bin/zsh
-```
+I work across the stack, from designing interfaces and building APIs to managing databases and deploying applications.
 
-### 🔥 **CORE MODULES LOADED**
-```python
-class Leo:
-    def __init__(self):
-        self.roles = [
-            "🌐 Full Stack Web Developer",
-            "🦠 Malware Analysis Specialist", 
-            "🏢 IT Consultant & Enterprise Solutions Architect",
-            "⚡ Digitization & Automation Evangelist"
-        ]
-        self.status = "Always learning, always building"
-        self.coffee_level = float('inf')
-```
+### What I work with
 
----
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL, Supabase
+- **Infrastructure:** Docker, Linux, Vercel, Git
+- **AI:** LLM integrations, RAG, vector databases, automation
+- **Security:** Web application security, malware analysis, security research
 
-## 🛠️ **CURRENT EXPLOITS & RESEARCH** `./active_processes`
+### Selected projects
 
-```bash
-[PROCESS] Advanced Algorithms & Data Structures    [████████░] 80%
-[PROCESS] DevOps & Cloud Infrastructure           [██████░░░░] 60%
-[PROCESS] Machine Learning & AI Implementations   [███████░░░] 70%
-[PROCESS] Zero-Day Discovery & Analysis           [█████░░░░░] 50%
-[PROCESS] Enterprise Automation Frameworks        [████████░░] 85%
-```
+- **[Voxa](https://voxa.leoodz.dev)** — A multi-tenant platform for creating and embedding AI-powered RAG chatbots.
+- **[VieHire](https://viehire.leoodz.dev)** — HR tools and a job platform.
+- **[KOSHI AI](https://ai.koshivn.com)** — A multilingual AI assistant focused on Vietnamese legal and workplace information.
 
----
+### Currently exploring
 
-## 📡 **ESTABLISH CONNECTION** `./contact.sh`
+- AI-powered developer tools and automation
+- Web security and malware analysis
+- Self-hosted infrastructure and local LLMs
+- Building practical SaaS products
 
-```bash
-#!/bin/bash
-echo "Initiating secure channels..."
+### Find me
 
-# Primary Communication Vectors
-SECURE_EMAIL="admin@leoodz.dev"
-DISCORD_HANDLE="Leoodz#0000"
-FACEBOOK_PROFILE="fb.com/leoodzz"
-
-echo "✅ All channels active and encrypted"
-echo "🔐 PGP key available upon request"
-```
-
-**📞 Connect via:**
-- 📧 **Encrypted Mail**: [admin@leoodz.dev](mailto:admin@leoodz.dev)
-- 🎮 **Discord**: [Leoodz](https://discordapp.com/users/348314340690100225)
-- 📘 **Facebook**: [Phạm Bảo Hưng](https://fb.com/leoodzz)
-
----
-
-## 🎯 **EASTER EGG** `./fun_facts.exe`
-
-```
-⚡ CLASSIFIED INTEL ⚡
-├── I speak fluent binary and sarcasm
-├── My rubber duck debugging sessions are legendary
-├── I've taught machines to learn... now they won't stop
-└── Coffee.exe runs in background 24/7
-```
-
----
-
-## 📊 **SYSTEM ANALYTICS** `./github_stats.py`
-
-<div align="center">
-
-### 🔥 **PERFORMANCE METRICS**
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoodz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=c9d1d9)
-
-### 💻 **LANGUAGE DISTRIBUTION**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoodz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9)
-
-### 👁️ **SURVEILLANCE COUNTER**
-![Profile Views](https://komarev.com/ghpvc/?username=leoodz&color=ff6b6b&style=for-the-badge&label=PROFILE+BREACHES)
-
-</div>
-
----
-
----
-
-<div align="center">
-
-**✨ "In code we trust, in bugs we debug, in coffee we survive" ✨**
-
-```
-████████████████████████████████████████████████████████████████████████████████
-█ THANK YOU FOR VISITING • STAY CURIOUS • KEEP CODING • MAY THE FORCE BE WITH YOU █
-████████████████████████████████████████████████████████████████████████████████
-```
-
-*Last updated: `date +"%Y-%m-%d %H:%M:%S"` • Version: 2.0.1-hackery*
-
-</div>
+- **Website:** [leoodz.dev](https://leoodz.dev)
+- **Email:** [admin@leoodz.dev](mailto:admin@leoodz.dev)
+- **Discord:** [Leoodz](https://discord.com/users/348314340690100225)
+- **Facebook:** [Phạm Bảo Hưng](https://fb.com/leoodzz)
